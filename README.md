@@ -119,8 +119,7 @@ Pharmacy_Sales_Performance_Review
     ├── 02_category_insights.png
     ├── 03_time_analysis.png
     └── 04_category_details.png
-
-
+```
 
 ---
 
@@ -133,3 +132,4 @@ The dataset contains sales transaction data but does not include market, competi
 ---
 
 **Ya-Lin Hsu** · [LinkedIn](https://www.linkedin.com/in/yalin-hsu) · [yalinhsu.work@gmail.com](mailto:yalinhsu.work@gmail.com)
+

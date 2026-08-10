@@ -111,6 +111,7 @@ At the same time, I was careful about what the dataset cannot explain. The data 
 Pharmacy_Sales_Performance_Review
 │
 ├── README.md
+├── Pharmacy_Sales_Performance_Review.pbix
 ├── Pharmacy_Sales_Performance_Review.pdf
 │
 └── screenshots/
@@ -118,7 +119,8 @@ Pharmacy_Sales_Performance_Review
     ├── 02_category_insights.png
     ├── 03_time_analysis.png
     └── 04_category_details.png
-```
+
+
 
 ---
 

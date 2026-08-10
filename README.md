@@ -31,8 +31,7 @@ At the overall sales level, **January 2017 was the highest-performing month, wit
 
 These findings led me to look more closely at two questions: why does N02BE/B contribute so much to total sales, and what was behind the decline in 2017?
 
-*Figure: Annual sales trend and category share, 2014–2018.*
-
+![Executive Summary](screenshots/01_executive_summary.png)
 ---
 
 ### 2. Category Insights — What Drove the Decline?

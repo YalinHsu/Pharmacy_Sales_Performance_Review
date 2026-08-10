@@ -32,6 +32,7 @@ At the overall sales level, **January 2017 was the highest-performing month, wit
 These findings led me to look more closely at two questions: why does N02BE/B contribute so much to total sales, and what was behind the decline in 2017?
 
 ![Executive Summary](screenshots/01_executive_summary.png)
+
 ---
 
 ### 2. Category Insights — What Drove the Decline?
@@ -42,7 +43,7 @@ I then used a waterfall chart to understand the decline from 2016 to 2017. The a
 
 This means the overall drop was not equally spread across all categories. Most of the change came from one major category.
 
-*Figure: Pareto analysis and waterfall breakdown of the 2016–2017 sales decline.*
+![Category Insights](screenshots/02_category_insights.png)
 
 ---
 
@@ -54,7 +55,7 @@ The weekday × hour heatmap shows stronger activity on **Saturdays**, with notic
 
 The hourly sales chart provides a closer look at how demand changes across the day and highlights the busiest hours.
 
-*Figure: Weekday × hour demand heatmap and hourly sales distribution.*
+![Time Analysis](screenshots/03_time_analysis.png)
 
 ---
 
@@ -68,7 +69,7 @@ From a pharmaceutical perspective, the similar winter patterns in N02BE/B and R0
 
 This also provides useful context for the January 2017 sales peak identified on the Executive Summary page.
 
-*Figure: Category-level monthly trend and seasonality comparison via drillthrough.*
+![Category Details](screenshots/04_category_details.png)
 
 ---
 
